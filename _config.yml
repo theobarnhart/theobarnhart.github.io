@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Theo Barnhart"
 title_separator          : "-"
 name                     : "Theo Barnhart"
-description              : "An amazing website."
+description              : "Theodore Barnhart's professional website: Hydrology, Snow, Earth Science, Big Data"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

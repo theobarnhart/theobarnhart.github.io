@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "Projects:
 header:
   overlay_image: ../assets/images/TBB_0137.jpg
 ---

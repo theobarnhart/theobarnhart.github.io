@@ -9,9 +9,9 @@ Simulating Snowmelt Rate, Timing, and Amount to Disentangle Controls on Runoff P
 ------
 **[2014- present]**
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/slump.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/smex.png){: .align-center}
 
-Snowmelt rate, timing, and amount are all tightly coupled in natural systems with large snowpacks tending to melt later in the year and more rapidly and locations with small snowpacks tending to melt earlier in the year and more slowly. This project uses snowmelt scenarios and a the Regional Hydro-ecologic Simulation System to experimentaly remove the colinearity between snowmelt rate, timing, and amount at three locations across the western United States to better assess how changes in snowmelt rate, timing, and amount influence runoff production.
+Snowmelt rate, timing, and amount are all tightly coupled in natural systems with large snowpacks tending to melt later in the year and more rapidly and locations with small snowpacks tending to melt earlier in the year and more slowly. This project uses snowmelt scenarios and a the Regional Hydro-ecologic Simulation System to experimentally remove the collinearity between snowmelt rate, timing, and amount at three locations across the western United States to better assess how changes in snowmelt rate, timing, and amount influence runoff production.
 
 Streamflow Production - Snowmelt Sensitivity Across Colorado's Trans-basin Diversion
 -------
@@ -19,7 +19,7 @@ Streamflow Production - Snowmelt Sensitivity Across Colorado's Trans-basin Diver
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/transbasin.png){: .align-center}
 
-In vitae mollis lectus. Praesent non diam vitae felis aliquet tempus. Mauris in lorem placerat, posuere augue vel, ultrices felis. Proin et est tristique, imperdiet tellus sed, hendrerit nisl. In eu ipsum id nisi vulputate interdum vel vel metus. Suspendisse sit amet erat odio. Curabitur vel mauris vitae mauris gravida laoreet fermentum non leo. Etiam facilisis mauris arcu. Quisque fermentum urna molestie, aliquam nisl quis, luctus sapien. Donec neque sem, varius eu tincidunt eget, consequat vitae ligula. Curabitur nulla tellus, accumsan commodo ligula non, elementum dictum felis.
+In Colorado, water is moved across the continental divide from the western slope of the Rocky Mountains to the east side of the divide to augment water resources. This project investigated how sensitive streamflow was to a change in snowmelt in basins on either side of these trans-basin diversions. Greater sensitivity in the basins receiving water from the western slope may indicate that greater diversion will be necessary in the future while greater sensitivity on the western side of the divide indicate that the tran-basin diversion may need to be decreased to satisfy downstream water rights.
 
 
 Snowmelt Rate and Climate-corrected Streamflow Production Across the Western United States
@@ -54,7 +54,7 @@ Glaciomarine Sediment Flux and Transportation Mechanisms, Kronerbreen/Kongsvegan
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sval.jpg){: .align-center}
 
-I had the good fortune to participate in the [NSF Svalbard REU](https://www.mtholyoke.edu/proj/svalbard/welcome.shtml) program working on understanding how tidewater glaciers are responding to contemporary climate change. My project used sediment traps deployed in one of the meltwater plumes from a tidewater glacial complex to investigate changes in sedimentation rates and sediment transportation mechanisms in the water column. This work was used for my senior honors [thesis](http://arminda.whitman.edu/theses/56/) at Whitman College.
+I had the good fortune to participate in the [NSF Svalbard REU](http://tos.org/oceanography/article/the-svalbard-reu-program-a-high-latitude-undergraduate-research-experience-) program working on understanding how tidewater glaciers are responding to contemporary climate change. My project used sediment traps deployed in one of the meltwater plumes from a tidewater glacial complex to investigate changes in sedimentation rates and sediment transportation mechanisms in the water column. This work was used for my senior honors [thesis](http://arminda.whitman.edu/theses/56/) at Whitman College.
 
 Vegetation Change as a Metric for Wetland Restoration Success, San Bernardino Cienaga, Sonora, Mexico
 -----

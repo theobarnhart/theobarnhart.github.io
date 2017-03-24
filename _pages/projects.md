@@ -26,7 +26,7 @@ Snowmelt Rate and Climate-corrected Streamflow Production Across the Western Uni
 ------
 **[2013-2016]**
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/grl_2016.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/grl_2016.png){: .align-center}
 
 Declining mountain snowpack and earlier snowmelt across the western United States has implications for downstream communities. We present a possible mechanism linking snowmelt rate and streamflow generation using a gridded implementation of the Budyko framework. We computed an ensemble of Budyko streamflow anomalies (BSAs) using Variable Infiltration Capacity model-simulated evapotranspiration, potential evapotranspiration, and estimated precipitation at 1/16° resolution from 1950 to 2013. BSA was correlated with simulated baseflow efficiency (r<sup>2</sup> = 0.64) and simulated snowmelt rate (r<sup>2</sup> = 0.42). The strong correlation between snowmelt rate and baseflow efficiency (r<sup>2</sup> = 0.73) links these relationships and supports a possible streamflow generation mechanism wherein greater snowmelt rates increase subsurface flow. Rapid snowmelt may thus bring the soil to field capacity, facilitating below-root zone percolation, streamflow, and a positive BSA. Previous works have shown that future increases in regional air temperature may lead to earlier, slower snowmelt and hence decreased streamflow production via the mechanism proposed by this work.
 

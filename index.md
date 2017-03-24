@@ -7,5 +7,4 @@ header:
   overlay_image: /assets/images/TBB_0137.jpg
 ---
 
-
-I like tacking large-scale mountian hydrology problems using hydrologic modeling, gridded data, and remote sensing. 
+ ***Tackling large-scale mountain hydrology problems using hydrologic modeling, gridded data, and remote sensing***

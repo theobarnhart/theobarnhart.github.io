@@ -10,12 +10,11 @@ Curriculum Vitae
 Education
 ----------
 
--   Ph.D. Geography, University of Colorado Boulder, *in progress*, GPA:
-    $3.88$  
+-   Ph.D. Geography, University of Colorado Boulder, *in progress*, GPA: 3.88  
     **Dissertation:** Tentative title: Snowmelt and Forest Water Use
     Dynamics Under a Changing Climate.  
     **Advisor:** Noah Molotch Ph.D.  
-
+	
 -   M.S. Geology, Idaho State University, 2013, GPA: $4.0$  
     **Thesis:** Using High-frequency Terrestrial Laser Scanning to
     Couple Meteorologic and Hydrologic Drivers to the Growth of a

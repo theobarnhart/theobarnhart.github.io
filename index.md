@@ -8,3 +8,19 @@ header:
 ---
 
  ***Tackling large-scale mountain hydrology problems using hydrologic modeling, gridded data, and remote sensing***
+
+Research Interests
+-----
+- interest 1
+- interest 2
+- interest 3
+
+
+Technical Skills
+----
+
+- skill 1
+- skill 2
+- skill 3
+
+

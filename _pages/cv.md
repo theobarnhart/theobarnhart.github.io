@@ -1,16 +1,8 @@
 ---
-layout: home
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+layout: single
 ---
 
-<span id="research-interest" class="anchor"><span id="education" class="anchor"></span></span>Education
+Education
 =======================================================================================================
 
 -   Ph.D. Geography, University of Colorado Boulder, *in progress*, GPA:
@@ -31,7 +23,7 @@ defaults:
     Mechanisms, Kronerbreen/Kongsvegan, Kongsfjorden, Svalbard.  
     **Advisors:** Robert Carson Ph.D. and Nicholas Bader Ph.D.  
 
-<span id="research-experience" class="anchor"><span id="teaching" class="anchor"></span></span>Teaching
+Teaching
 =======================================================================================================
 
 -   Geography 3511 - Introduction to Hydrology Laboratory - Spring
@@ -43,8 +35,8 @@ defaults:
 -   Geology 450 - Field Geology - Summer 2012 - Teaching Assistant -
     Idaho State University, Pocatello, ID
 
-<span id="affiliations" class="anchor"><span id="awards-and-competitive-experiences" class="anchor"></span></span>Awards and Competitive Experiences
-====================================================================================================================================================
+Awards and Competitive Experiences
+==================================
 
 -   University of Colorado G.F. White Fellowship in Geography, 2016
 
@@ -75,8 +67,8 @@ defaults:
 
 -   Los Alamos National Lab Student Internship, Water Quality, 2008
 
-<span id="technical-skills" class="anchor"><span id="service-speaker-series-and-meeting-sessi" class="anchor"></span></span>Service: Speaker Series and Meeting Sessions Organized
-==================================================================================================================================================================================
+Service: Speaker Series and Meeting Sessions Organized
+======================================================
 
 -   University of Colorado INSTAAR Graduate Student Seminar
     Co-organizer, 2014 - 2015

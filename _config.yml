@@ -246,10 +246,10 @@ defaults:
       related: true
   # _pages
   - scope:
-	  path:
+	  path: ""
 	  type: pages
 	  values:
-		  layout: home
+		  layout: splash
 		  author_profile: true
 		  read_time: false
 		  comments: false

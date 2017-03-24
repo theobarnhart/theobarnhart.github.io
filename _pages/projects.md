@@ -7,7 +7,13 @@ layout: single
 Simulating Snowmelt Rate, Timing, and Amount to Disentangle Controls on Runoff Production
 ------
 
+Snowmelt rate, timing, and amount are all tightly coupled in natural systems with large snowpacks tending to melt later in the year and more rapidly and locations with small snowpacks tending to melt earlier in the year and more slowly. This project uses snowmelt scenarios and a the Regional Hydro-ecologic Simulation System to experimentaly remove the colinearity between snowmelt rate, timing, and amount at three locations across the western United States to better assess how changes in snowmelt rate, timing, and amount influence runoff production.
+
+Streamflow Production - Snowmelt Sensitivity Across Colorado's Trans-basin Diversion
+-------
+
 In vitae mollis lectus. Praesent non diam vitae felis aliquet tempus. Mauris in lorem placerat, posuere augue vel, ultrices felis. Proin et est tristique, imperdiet tellus sed, hendrerit nisl. In eu ipsum id nisi vulputate interdum vel vel metus. Suspendisse sit amet erat odio. Curabitur vel mauris vitae mauris gravida laoreet fermentum non leo. Etiam facilisis mauris arcu. Quisque fermentum urna molestie, aliquam nisl quis, luctus sapien. Donec neque sem, varius eu tincidunt eget, consequat vitae ligula. Curabitur nulla tellus, accumsan commodo ligula non, elementum dictum felis.
+
 
 Snowmelt Rate and Climate-corrected Streamflow Production Across the Western United States
 ------

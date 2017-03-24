@@ -4,8 +4,8 @@ main:
     url: https://theobarnhart.github.io/_pages/projects
   - title: "CV"
     url: https://theobarnhart.github.io/_pages/cv
-  # - title: "CV"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "HOAR"
+    url: https://hoarorg.hithub.io
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

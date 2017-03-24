@@ -245,13 +245,13 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
-	  path: "_pages"
-	  type: pages
-	  values:
-		  layout: home
-		  author_profile: true
-		  read_time: false
-		  comments: false
-		  share: false
-		  related: false
+  #- scope:
+	 # path: "_pages"
+	 # type: pages
+	 # values:
+		 # layout: home
+		 # author_profile: true
+		 # read_time: false
+		 # comments: false
+		 # share: false
+		 # related: false

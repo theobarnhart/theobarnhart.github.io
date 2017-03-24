@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 author: "Theo Barnhart"
 header:
   overlay_image: /assets/images/TBB_0137.jpg

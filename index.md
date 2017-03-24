@@ -1,6 +1,6 @@
 ---
 layout: splash
-author_profile: True
+author_profile: true
 ---
 
 ### Hi! 

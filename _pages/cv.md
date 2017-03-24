@@ -1,11 +1,7 @@
 ---
 layout: single
-title: ""
+title: "Curriculum Vitae"
 ---
-
-Curriculum Vitae
-============
-
 
 Education
 ----------
@@ -28,7 +24,7 @@ Education
     **Advisors:** Robert Carson Ph.D. and Nicholas Bader Ph.D.  
 
 Teaching
-=======================================================================================================
+----
 
 -   Geography 3511 - Introduction to Hydrology Laboratory - Spring
     2016 - Teaching Assistant -University of Colorado, Boulder, CO
@@ -40,7 +36,7 @@ Teaching
     Idaho State University, Pocatello, ID
 
 Awards and Competitive Experiences
-==================================
+----
 
 -   University of Colorado G.F. White Fellowship in Geography, 2016
 
@@ -72,7 +68,7 @@ Awards and Competitive Experiences
 -   Los Alamos National Lab Student Internship, Water Quality, 2008
 
 Service: Speaker Series and Meeting Sessions Organized
-======================================================
+---
 
 -   University of Colorado INSTAAR Graduate Student Seminar
     Co-organizer, 2014 - 2015
@@ -86,7 +82,7 @@ Service: Speaker Series and Meeting Sessions Organized
     3-7 Dec.
 
 Publications: Articles
-======================
+---
 
 **Barnhart, T.B.**, N.P. Molotch, B. Livneh, A.A. Harpold, J.F. Knowles,
 D. Schneider (2016), Snowmelt Rate Dictates Streamflow, *Geophysical
@@ -106,7 +102,7 @@ High-Temporal-Frequency Terrestrial Laser Scanning, Selawik River,
 Alaska, *Remote Sensing*, 5, 2813-2837.
 
 Publications: Invited Presentations
-===================================
+----
 
 **Barnhart, T.B.**, N.P. Molotch, B. Livneh, A.A. Harpold, J.F. Knowles,
 and D. Schneider (2015), Rapid Snowmelt Leads to Greater Streamflow
@@ -119,7 +115,7 @@ Across the Western United States, presented at the Universidad de Chile,
 Santiago, Chile, 29 Sept.
 
 Publications: Conference Presentations
-======================================
+----
 
 **Barnhart, T.B.**, N.P. Molotch, and C.L. Tague (2017), Disentangling
 the Importance of Snowmelt Rate, Timing, and Amount on Runoff
@@ -212,7 +208,7 @@ presented at the Murdock College Science Research Conference, Spokane,
 Wash., 29-31 Oct.
 
 Technical Skills
-================
+----
 
 Scientific computing: Python, Matlab, R
 
@@ -232,7 +228,7 @@ Pro](http://www.riegl.com/products/software-packages/riscan-pro/),
 [CloudCompare](http://www.danielgm.net/cc/)
 
 Research Experience
-===================
+----
 
 -   Terrestrial hydrologic modeling
 
@@ -251,7 +247,7 @@ Research Experience
 -   Publication of research findings in peer-reviewed journals
 
 Affiliations
-============
+---
 
 -   American Geophysical Union, 2009-present
 

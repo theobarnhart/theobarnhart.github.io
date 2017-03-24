@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Projects"
-    url: /_pages/projects.md
+    url: /_pages/projects
   - title: "CV"
-    url: /_pages/cv.md
+    url: /_pages/cv
   # - title: "CV"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

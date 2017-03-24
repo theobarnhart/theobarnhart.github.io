@@ -1,6 +1,7 @@
 ---
 layout: home
 author: "Theo Barnhart"
+title: "Welcome!"
 author_profile: true
 header:
   overlay_image: /assets/images/TBB_0137.jpg

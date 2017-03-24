@@ -1,9 +1,14 @@
 ---
 layout: single
+title: "CV"
 ---
 
+Curriculum Vitae
+============
+
+
 Education
-=======================================================================================================
+----------
 
 -   Ph.D. Geography, University of Colorado Boulder, *in progress*, GPA:
     $3.88$  

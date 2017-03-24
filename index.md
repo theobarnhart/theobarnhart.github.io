@@ -19,9 +19,9 @@ Research Interests
 Technical Skills
 ----
 
-- Python
-- Hydrologic modeling
-- GIS
-- High-performance computing data processing
+- Python: Pandas, Numpy, Jupyter 
+- Hydrologic modeling: RHESSys, VIC
+- GIS: GRASS, ArcGIS, GDAL, QGIS
+- High-performance computing data processing: NCO
 
 

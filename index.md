@@ -1,6 +1,6 @@
 ---
 layout: splash
-author_profile: true
+author: "Theo Barnhart"
 header:
   overlay_image: /assets/images/TBB_0137.jpg
   

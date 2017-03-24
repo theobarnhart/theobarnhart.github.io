@@ -1,7 +1,7 @@
 ---
 layout: single
 header:
-  overlay_image: /assets/images/TBB_0137.jpg
+  overlay_image: ../assets/images/TBB_0137.jpg
 ---
 
 

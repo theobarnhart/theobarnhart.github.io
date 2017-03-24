@@ -14,12 +14,13 @@ Snowmelt Rate and Climate-corrected Streamflow Production Across the Western Uni
 
 In bibendum dolor at consequat finibus. Vivamus vel rutrum nisi. Praesent vestibulum varius nibh eu commodo. Proin condimentum, enim et porttitor sollicitudin, ipsum diam maximus velit, id bibendum eros ligula in sem. Aliquam quis dui odio. Nulla eget tellus lacus. Nam placerat justo ac urna venenatis, tristique varius elit fringilla. Nulla facilisi. Aliquam erat volutpat. Integer sed ullamcorper massa. Cras scelerisque egestas libero, vestibulum vehicula ante sagittis in. Donec sagittis accumsan dolor non consectetur. Vivamus metus est, tempor quis purus sit amet, molestie tempus justo.
 
-Thermokarst Headwall Dynamics, Selawik Retrogressive Thaw Slump, Alaska [Summer 2011-Spring 2013]
+Thermokarst Headwall Dynamics, Selawik Retrogressive Thaw Slump, Alaska 
+---
+[Summer 2011-Spring 2013]
 ----
 
-<figure>
-	<img src="/assets/images/slump.jpg">
-</figure>
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/slump.jpg" alt="">{% endraw %}
+<figure> <img src="/assets/images/slump.jpg"> </figure>
 
 My MS focused on working to understand how hydrologic and meteorologic drivers control the growth of a retrogressive thaw slump in northwest Alaska. The Selawik slump initiated in 2004 and has been growing 7-20 m/yr since. I use ground based LiDAR to take high resolution topographic surveys of the feature twice a day and use those data sets to investigate changes in the rate of the feature's growth and morphology. Retrogressive thaw slumps are a type of thermokarst feature with the ability to mobilize large quantities of sediment and nutrients to downstream environments. Better understanding what drives this feature's growth will inform how these features will behave under different climate warming scenarios.
 

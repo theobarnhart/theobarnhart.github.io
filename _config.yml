@@ -14,7 +14,7 @@ description              : "Theodore Barnhart's professional website: Hydrology,
 url                      : "https://theobarnhart.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/TBB_0137.jpg"
+teaser                   : #"/assets/images/TBB_0137.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

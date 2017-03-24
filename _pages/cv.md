@@ -1,30 +1,46 @@
----
-layout: single
-title: "Curriculum Vitae"
----
-
 Education
-----------
+---
 
--   Ph.D. Geography, University of Colorado Boulder, *in progress*, GPA: 3.88  
-    **Dissertation:** Tentative title: Snowmelt and Forest Water Use
-    Dynamics Under a Changing Climate.  
-    **Advisor:** Noah Molotch Ph.D.  
-	
--   M.S. Geology, Idaho State University, 2013, GPA: $4.0$  
-    **Thesis:** Using High-frequency Terrestrial Laser Scanning to
+-   Ph.D. Geography, University of Colorado Boulder*, expected
+    completion: Summer 2017*, GPA: 3.88
+    **Dissertation:** Snowmelt and Forest Water Use Dynamics Under a
+    Changing Climate.
+    **Advisor:** [Noah Molotch
+    Ph.D.](https://instaar.colorado.edu/people/noah-p-molotch/)
+
+-   M.S. Geology, Idaho State University, 2013, GPA: 4.0
+    **Thesis:** [Using High-frequency Terrestrial Laser Scanning to
     Couple Meteorologic and Hydrologic Drivers to the Growth of a
-    Retrogressive Thaw Slump in NW Alaska.  
-    **Advisor:** Benjamin Crosby Ph.D.  
+    Retrogressive Thaw Slump in NW
+    Alaska.](http://geology.isu.edu/thesis/Barnhart.Theodore.2013.pdf)
+    **Advisor:** [Benjamin Crosby
+    Ph.D.](http://www2.cose.isu.edu/~crosby/)
 
 -   B.A. Geology-Environmental Studies with Honors, Whitman College,
-    2010 GPA: $3.7$ *Cum Laude*.  
-    **Honors Thesis:** Glaciomarine Sediment Flux and Transportation
-    Mechanisms, Kronerbreen/Kongsvegan, Kongsfjorden, Svalbard.  
-    **Advisors:** Robert Carson Ph.D. and Nicholas Bader Ph.D.  
+    2010 GPA: 3.7 *Cum Laude*.
+    **Honors Thesis:** [Glaciomarine Sediment Flux and Transportation
+    Mechanisms, Kronerbreen/Kongsvegan, Kongsfjorden,
+    Svalbard.](http://arminda.whitman.edu/theses/56/)
+    **Advisors:** [Robert Carson
+    Ph.D.](https://www.whitman.edu/academics/departments-and-programs/geology/geology-faculty-and-staff/robert-carson)
+    and [Nicholas Bader Ph.D.](http://nickbader.whitman.edu/)
+
+Mentorships
+===========
+
+-   Research Experience for Community College Students (RECCS) – Summer
+    2016
+
+    -   Randall Rouse, Community College of Denver, *Slope Orientation
+        and Topographic Wetness Index Effects on Leaf Area and Height in
+        a Coniferous Forest.*
+
+    -   Jesse Barber, Red Rocks Community College, *Terrestrial Based
+        Leaf Area Index Compared to Leaf Area Index Derived from Remote
+        Sensing in the Boulder Creek Critical Zone Observatory*.
 
 Teaching
-----
+---
 
 -   Geography 3511 - Introduction to Hydrology Laboratory - Spring
     2016 - Teaching Assistant -University of Colorado, Boulder, CO
@@ -36,7 +52,7 @@ Teaching
     Idaho State University, Pocatello, ID
 
 Awards and Competitive Experiences
-----
+---
 
 -   University of Colorado G.F. White Fellowship in Geography, 2016
 
@@ -102,7 +118,7 @@ High-Temporal-Frequency Terrestrial Laser Scanning, Selawik River,
 Alaska, *Remote Sensing*, 5, 2813-2837.
 
 Publications: Invited Presentations
-----
+---
 
 **Barnhart, T.B.**, N.P. Molotch, B. Livneh, A.A. Harpold, J.F. Knowles,
 and D. Schneider (2015), Rapid Snowmelt Leads to Greater Streamflow
@@ -115,7 +131,7 @@ Across the Western United States, presented at the Universidad de Chile,
 Santiago, Chile, 29 Sept.
 
 Publications: Conference Presentations
-----
+---
 
 **Barnhart, T.B.**, N.P. Molotch, and C.L. Tague (2017), Disentangling
 the Importance of Snowmelt Rate, Timing, and Amount on Runoff
@@ -208,7 +224,7 @@ presented at the Murdock College Science Research Conference, Spokane,
 Wash., 29-31 Oct.
 
 Technical Skills
-----
+---
 
 Scientific computing: Python, Matlab, R
 
@@ -228,7 +244,7 @@ Pro](http://www.riegl.com/products/software-packages/riscan-pro/),
 [CloudCompare](http://www.danielgm.net/cc/)
 
 Research Experience
-----
+---
 
 -   Terrestrial hydrologic modeling
 
@@ -252,5 +268,3 @@ Affiliations
 -   American Geophysical Union, 2009-present
 
 -   Idaho State University Geology Club, 2011 - 2013
-
-

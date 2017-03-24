@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Curriculum Vitae"
+---
+
 Education
 ---
 
@@ -26,7 +31,7 @@ Education
     and [Nicholas Bader Ph.D.](http://nickbader.whitman.edu/)
 
 Mentorships
-===========
+----
 
 -   Research Experience for Community College Students (RECCS) – Summer
     2016

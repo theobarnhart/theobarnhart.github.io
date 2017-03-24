@@ -12,7 +12,7 @@ header:
 Research Interests
 -----
 
-- Landcover and climate impacts on landsurface hydrology
+- Landcover and climate impacts on land surface hydrology
 - Snowmelt driven runoff generation
 - Continental-scale hydrology
 
@@ -20,7 +20,7 @@ Technical Skills
 ----
 
 - Python: Pandas, Numpy, Jupyter 
-- Hydrologic modeling: RHESSys, VIC
+- Hydrologic modeling: [RHESSys](https://github.com/RHESSys/RHESSys), [VIC](http://vic.readthedocs.io/en/vic.4.2.d/)
 - GIS: GRASS, ArcGIS, GDAL, QGIS
 - High-performance computing data processing: NCO
 

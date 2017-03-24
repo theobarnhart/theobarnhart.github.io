@@ -11,16 +11,17 @@ header:
 
 Research Interests
 -----
-- interest 1
-- interest 2
-- interest 3
 
+- Landcover and climate impacts on landsurface hydrology
+- Snowmelt driven runoff generation
+- Continental-scale hydrology
 
 Technical Skills
 ----
 
-- skill 1
-- skill 2
-- skill 3
+- Python
+- Hydrologic modeling
+- GIS
+- High-performance computing data processing
 
 

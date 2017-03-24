@@ -244,9 +244,9 @@ defaults:
       comments: # true
       share: true
       related: true
-  #_pages
+  # _pages
   - scope:
-	  path: ""
+	  path: "_pages"
 	  type: pages
 	  values:
 		  layout: home

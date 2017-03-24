@@ -17,7 +17,7 @@ Streamflow Production - Snowmelt Sensitivity Across Colorado's Trans-basin Diver
 -------
 **[2013 - present]**
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/slump.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/transbasin.png){: .align-center}
 
 In vitae mollis lectus. Praesent non diam vitae felis aliquet tempus. Mauris in lorem placerat, posuere augue vel, ultrices felis. Proin et est tristique, imperdiet tellus sed, hendrerit nisl. In eu ipsum id nisi vulputate interdum vel vel metus. Suspendisse sit amet erat odio. Curabitur vel mauris vitae mauris gravida laoreet fermentum non leo. Etiam facilisis mauris arcu. Quisque fermentum urna molestie, aliquam nisl quis, luctus sapien. Donec neque sem, varius eu tincidunt eget, consequat vitae ligula. Curabitur nulla tellus, accumsan commodo ligula non, elementum dictum felis.
 

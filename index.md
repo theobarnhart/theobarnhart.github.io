@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author: "Theo Barnhart"
 title: "Welcome!"
 author_profile: true

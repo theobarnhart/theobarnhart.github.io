@@ -5,22 +5,21 @@ header:
   overlay_image: ../assets/images/TBB_0137.jpg
 ---
 
-Simulating Snowmelt Rate, Timing, and Amount to Disentangle Controls on Runoff Production
+Simulating Snowmelt Rate, Timing, and Amount to Disentangle Controls on Runoff Production Across the Western United States
 ------
 **[2014- present]**
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/smex.png){: .align-center}
 
-Snowmelt rate, timing, and amount are all tightly coupled in natural systems with large snowpacks tending to melt later in the year and more rapidly and locations with small snowpacks tending to melt earlier in the year and more slowly. This project uses snowmelt scenarios and a the Regional Hydro-ecologic Simulation System to experimentally remove the collinearity between snowmelt rate, timing, and amount at three locations across the western United States to better assess how changes in snowmelt rate, timing, and amount influence runoff production.
+Snowmelt rate, timing, and amount are all tightly coupled in natural systems; large snowpacks tend to melt later in the year and more rapidly while locations with small snowpacks tend to melt earlier in the year and more slowly. This project uses snowmelt scenarios and the [Regional Hydro-ecologic Simulation System](https://github.com/RHESSys/RHESSys) to experimentally remove the collinearity between snowmelt rate, timing, and amount at three locations across the western United States to better assess how changes in snowmelt rate, timing, and amount influence runoff production.
 
-Streamflow Production - Snowmelt Sensitivity Across Colorado's Trans-basin Diversion
+Streamflow Production Sensitivity to Snowmelt Across Colorado's Trans-basin Diversions
 -------
 **[2013 - present]**
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/transbasin.png){: .align-center}
 
-In Colorado, water is moved across the continental divide from the western slope of the Rocky Mountains to the east side of the divide to augment water resources. This project investigated how sensitive streamflow was to a change in snowmelt in basins on either side of these trans-basin diversions. Greater sensitivity in the basins receiving water from the western slope may indicate that greater diversion will be necessary in the future while greater sensitivity on the western side of the divide indicate that the tran-basin diversion may need to be decreased to satisfy downstream water rights.
-
+In Colorado, water is moved across the continental divide from the western slope of the Rocky Mountains to the east side of the divide to augment water resources. This project investigated how sensitive streamflow was to a change in snowmelt in basins on either side of these trans-basin diversions. Greater sensitivity in the basins receiving water from the western slope may indicate that greater diversion will be necessary in the future while greater sensitivity on the western side of the divide indicate that the tran-basin diversion may need to be decreased to satisfy downstream water rights. Work using large-scale hydrologic models such as VIC and WRF show that streamflow in basins contributing to trans-basin diversions are more sensitive to a unit change in water flux (snowmelt plus rainfall). This suggests that, although streamflow will decline as snowpack declines on either side of the continental divide, streamflow will decline more rapidly on the western slope of the divide.
 
 Snowmelt Rate and Climate-corrected Streamflow Production Across the Western United States
 ------

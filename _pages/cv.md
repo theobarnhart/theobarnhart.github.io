@@ -1,8 +1,5 @@
 ---
-layout: splash
-classes:
-  - landing
-  - dark-theme
+layout: home
 ---
 
 Content goes here.

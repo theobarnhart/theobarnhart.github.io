@@ -3,11 +3,17 @@ layout: single
 title: "Curriculum Vitae"
 ---
 
+Employment
+---
+
+-   Physical Scientist (student trainee), Wyoming - Montana Water Science Center, U.S. Geological Survey, Helena, MT, 2017 - present
+-   Research Assistant, University of Colorado, Boulder, CO, 2013 - present
+
 Education
 ---
 
 -   Ph.D. Geography, University of Colorado Boulder*, expected
-    completion: Summer 2017*, GPA: 3.88
+    completion: Spring 2018*, GPA: 3.88
     **Dissertation:** Snowmelt and Forest Water Use Dynamics Under a
     Changing Climate.
     **Advisor:** [Noah Molotch
